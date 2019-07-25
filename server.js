@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 
     // }
     res.render('home', {
-        nombre: 'criStian pEreZ'
+        nombre: 'zoranY henaO'
     });
 })
 app.get('/about', (req, res) => {
